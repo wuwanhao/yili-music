@@ -13,5 +13,4 @@ public class DefaultController {
   public String sayHello(){
     return "Hello";
   }
-  
 }
